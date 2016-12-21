@@ -1,0 +1,11 @@
+﻿#ifndef  _CAL_VERSION_MANAGER_
+#define  _CAL_VERSION_MANAGER_
+
+
+#define CAL_VERSION_PRO 0
+//#define CAL_VERSION_PRO 1
+
+
+
+#endif // _CAL_VERSION_MANAGER_
+
